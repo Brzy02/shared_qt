@@ -1,4 +1,4 @@
-#include "QtCore"
+#include <QtCore>
 #include <QWidget>
 #include <QObject>
 #include <QMainWindow>
